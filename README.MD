@@ -1,1 +1,1 @@
-### Work in progress
+Thank you for visiting my profile!
