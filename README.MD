@@ -1,5 +1,3 @@
-![Profile](https://github.com/rohit1101/rohit1101/blob/master/carbon-3.png)
-
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
