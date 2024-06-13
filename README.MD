@@ -13,7 +13,7 @@ I'm currently learning K8s and Terraform
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##  **My Certifications 🏅**
-- [AWS Certified: Solutions Architect Professional](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-418)
+- [AWS Certified: Associate Solutions Architect ](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-418)
 - [AWS Cloud Practitioner](https://www.credly.com/badges/ab4ac3f7-220b-47fe-8912-16f4ca85db97)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/rohit-s.61ad8f9f/badges)
