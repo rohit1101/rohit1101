@@ -17,11 +17,6 @@ I'm currently learning K8s and Terraform
 - [AWS Cloud Practitioner](https://www.credly.com/badges/ab4ac3f7-220b-47fe-8912-16f4ca85db97)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/rohit-s.61ad8f9f/badges)
-
-<p align="left">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2886ffc9-fb59-4c2d-9b43-0fbd6196d6bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rohit1101&icon=0&color=0)](https://visitcount.itsvg.in)
 
