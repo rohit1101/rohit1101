@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently learning K8s and Terraform
+I'm curious about data and deriving insight from the data
 
 
 ## 🌐 Socials:
