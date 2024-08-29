@@ -16,6 +16,10 @@ I'm curious about data and deriving insight from the data
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit1101&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit1101&theme=github_dark&utcOffset=8)
 
+# 📊 Roadmap.sh Stats:
+
+[![roadmap.sh](https://roadmap.sh/card/tall/64c67e928bda28d991468568?variant=dark)](https://roadmap.sh)
+
 ##  **My Certifications 🏅**
 - [AWS Certified: Associate Solutions Architect ](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-418)
 - [AWS Cloud Practitioner](https://www.credly.com/badges/ab4ac3f7-220b-47fe-8912-16f4ca85db97)
