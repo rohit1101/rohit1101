@@ -18,7 +18,7 @@ I'm curious about data and deriving insight from the data
 
 # 📊 Roadmap.sh Stats:
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64c67e928bda28d991468568?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64c67e928bda28d991468568?variant=dark&roadmaps=linux%2Caws)](https://roadmap.sh)
 
 ##  **My Certifications 🏅**
 - [AWS Certified: Associate Solutions Architect ](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-418)
